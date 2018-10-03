@@ -1,4 +1,4 @@
- <h2>Smartbrain(https://mfushimi09.github.io/smartbrain/)</h2>
+ <h2>Smartbrain Demo (https://mfushimi09.github.io/smartbrain/)</h2>
  
  by <a target ="_blank" rel="noopener noreferrer" href="https://github.com/mfushimi09">fushimi</a> 
       with 
