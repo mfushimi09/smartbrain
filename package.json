@@ -11,11 +11,13 @@
     "react-tilt": "^0.1.4",
     "tachyons": "^4.11.1"
   },
+  "homepage" : "https://mfushimi09.github.io/smartbrain",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
   "devDependencies": {
